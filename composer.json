@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "cyberha4\\controllersdisplayer\\": ""
+            "cyberha4\\scanner\\": ""
         }
     }
 }

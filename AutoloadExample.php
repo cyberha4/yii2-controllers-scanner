@@ -1,6 +1,6 @@
 <?php
 
-namespace cyberha4\controllersdisplayer;
+namespace cyberha4\scanner;
 
 /**
  * This is just an example.

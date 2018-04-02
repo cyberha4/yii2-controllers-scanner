@@ -6,7 +6,7 @@
  * Time: 23:02
  */
 
-namespace cyberha4\controllersdisplayer;
+namespace cyberha4\scanner;
 
 use common\components\simpledebugger\Debugger;
 use common\models\User;
