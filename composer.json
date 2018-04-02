@@ -1,0 +1,21 @@
+{
+    "name": "cyberha4/yii2-controllers-scanner",
+    "description": "Finding all module controllers with actions in application",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension", "controllers"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cyberha4",
+            "email": "cyberhach44@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "cyberha4\\controllersdisplayer\\": ""
+        }
+    }
+}
